@@ -2,6 +2,8 @@
 
 Built with Visual Studio 2010's C++ compiler.  
 
+![alt text](https://github.com/andandandand/raytracer/blob/master/raytracer.jpg)
+
 ## Controls
 
 Move through the scene with on the x, z axes with the i, j, k, l keys. The reflecting spheres are

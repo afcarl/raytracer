@@ -2,7 +2,7 @@
 
 Built with Visual Studio 2010's C++ compiler.  
 
-![alt text][raytracer.jpg]
+![alt text](https://github.com/andandandand/raytracer/blob/master/raytracer.jpg "Raytracer")
 
 ## Controls
 
